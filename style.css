@@ -1,0 +1,47 @@
+*{
+	font-family: 'a';
+
+}
+#background{
+	background: url(images/banner.jpg);
+	width: 100%;
+	height: 70vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 50px;
+}
+
+.img_size{
+	height: 240px;
+}
+span{
+	color: #E1633B;
+}
+.carousel-item > img{
+	height: 300px;
+}
+footer{
+	background-color: #F4E09F;
+}
+#btn{
+	background: transparent;
+	border: none;
+	
+}
+hr{
+	/*1rem = 16 px*/
+	max-width: 3.25rem;
+	border-width: .2rem;
+	border-color: #000;
+}
+.mtf{
+	font-weight: bolder;
+}
+.card-img{
+	height: 100%;
+	
+}
+h2{
+	font-weight: bold;
+}
